@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=  /home/szbaijie/workspace/a133_new/longan/out/gcc-linaro-5.3.1-2016.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/spidev.o drivers/spi/spi-sunxi.o 
